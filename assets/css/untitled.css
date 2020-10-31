@@ -1,0 +1,21 @@
+.portfolio-block.block-intro .avatar {
+  width: 200px;
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  border-radius: 100px;
+  margin-bottom: 30px;
+}
+
+body {
+  margin: 0;
+  font-family: Lato,sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  text-align: left;
+  background-color: #fff;
+}
+
