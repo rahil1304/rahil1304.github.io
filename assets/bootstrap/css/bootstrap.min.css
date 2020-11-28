@@ -9591,7 +9591,7 @@ a.text-dark:hover {
   opacity: 0.8;
 }
 .portfolio-block.cv .group .organization {
-  font-sizes: 0.85em;
+  font-size: 0.85em;
   background-color: #0ea0ff;
   display: inline-block;
   color: #fff;
