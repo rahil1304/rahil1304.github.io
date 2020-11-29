@@ -9776,7 +9776,7 @@ a.text-dark:hover {
   margin-top: 30px;
 }
 .portfolio-block.project .stack {
-  font-sizes: 0.65em;
+  font-size: 0.85em;
   background-color: #787a7a;
   display: inline-block;
   color: #fff;
@@ -9784,7 +9784,7 @@ a.text-dark:hover {
   border-radius: 2em;
 }
 .portfolio-block.project .mobileapp {
-  font-sizes: 0.65em;
+  font-size: 0.85em;
   background-color: #3ba1e6;
   display: inline-block;
   color: #fff;
@@ -9793,6 +9793,13 @@ a.text-dark:hover {
 }
 .portfolio-block.project .image {
   height: 180px;
+  margin-bottom: 50px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.portfolio-block.project .image2 {
+  height: 580px;
   margin-bottom: 50px;
   background-size: cover;
   background-repeat: no-repeat;
